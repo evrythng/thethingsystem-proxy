@@ -7,7 +7,7 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 
 //0) Add the operator key of the account here, get it from:
 // https://dashboard.evrythng.com/account
-var OPERATOR_API_KEY = 'n3yrJVSZCsIY4efhrqZbpFncsh9LD9TkX9eyPmGmPcUg0QH4sSJwQWZXgOGnDhFipCjE4tkIPwEHT3hr';
+var OPERATOR_API_KEY = 'REPLACE_ME';
 var thngToReceiveTtsEvents = 'UfsWsF95se5adXHnQsQ4Kbdm';
 
 
